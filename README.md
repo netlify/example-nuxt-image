@@ -16,3 +16,8 @@ npm i -g netlify-cli
 ntl dev
 ```
 
+## Attribution
+
+- Code sourced from: https://github.com/nuxt/image/tree/main/example
+- More information at: https://image.nuxt.com/get-started/installation
+
